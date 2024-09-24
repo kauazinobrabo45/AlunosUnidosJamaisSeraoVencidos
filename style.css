@@ -3,11 +3,13 @@
 :root {
     background-color: rgb(216, 248, 248);
     color: black;
+    --cor-de-fundo:
+    
 }
 
 body{
-    background-color: var(-cor-de-fundo);
-    color: var(texto);
+    background-color: var(--cor-de-fundo);
+    color: var(--texto);
     font-family: "Creepster", system-ui;
 }
 
