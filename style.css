@@ -20,3 +20,9 @@ body{
     width: 100%;
     margin: 0 auto;
 }
+
+.conteudo-principal {
+    text-align: left;
+    width: 100%;
+    font-size: 40px;
+}
