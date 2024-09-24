@@ -29,7 +29,10 @@ body{
     width: 100%;
     font-size: 40px;
 }
-
+ 
+p {
+    text-align: left;
+}
 .paragrafo-esquerda{
     text-align: left;
 }
