@@ -2,15 +2,11 @@
 
 :root {
     background-color: rgb(216, 248, 248);
-    color: rgb(255, 255, 255); 
+    color: rgb(26, 23, 23); 
 }
 
 body{
     font-family: "Creepster", system-ui;
-    background-image: url(https://img.freepik.com/vetores-gratis/design-plano-de-fundo-escolar_23-2148587752.jpg);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
 }
 
 .conteudo-principal {
@@ -35,4 +31,11 @@ p {
 }
 .paragrafo-esquerda{
     text-align: left;
+}
+
+body{
+background-image: url(https://img.freepik.com/vetores-gratis/design-plano-de-fundo-escolar_23-2148587752.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
