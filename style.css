@@ -2,15 +2,10 @@
 
 :root {
     background-color: rgb(216, 248, 248);
-    color: rgb(26, 23, 23);
-    --cor-de-fundo: rgb(219, 252, 252);
-    
-    
+    color: rgb(26, 23, 23); 
 }
 
 body{
-    background-color: var(--cor-de-fundo);
-    color: var(--texto);
     font-family: "Creepster", system-ui;
     background-image: url(https://img.freepik.com/vetores-gratis/design-plano-de-fundo-escolar_23-2148587752.jpg);
     background-size: cover;
