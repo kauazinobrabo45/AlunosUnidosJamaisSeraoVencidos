@@ -12,6 +12,10 @@ body{
     background-color: var(--cor-de-fundo);
     color: var(--texto);
     font-family: "Creepster", system-ui;
+    background-image: url(https://img.freepik.com/vetores-gratis/design-plano-de-fundo-escolar_23-2148587752.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 .conteudo-principal {
