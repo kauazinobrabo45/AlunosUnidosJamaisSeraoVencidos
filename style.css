@@ -45,3 +45,7 @@ background-image: url(https://img.freepik.com/vetores-gratis/design-plano-de-fun
     border: 1px solid #ccc; /* Para visualizar o container */
     padding: 10px;
 }
+
+.scroll-container-color {
+    background-color: black;
+}
