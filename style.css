@@ -40,9 +40,9 @@ background-image: url(https://img.freepik.com/vetores-gratis/design-plano-de-fun
 }
 
 .scroll-container {
+    background-color: black;
     max-height: 400px; /* Altura máxima do container */
     overflow-y: auto; /* Adiciona scroll vertical */
     border: 1px solid #ffffff; /* Para visualizar o container */
     padding: 10px;.
-    background-color: #000;
 }
