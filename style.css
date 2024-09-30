@@ -39,14 +39,9 @@ background-image: url(https://img.freepik.com/vetores-gratis/design-plano-de-fun
     background-repeat: no-repeat;
 }
 
-.horizontal-scroll {
-    overflow-x: auto; /* Adiciona scroll horizontal */
-    white-space: nowrap; /* Impede quebra de linha */
+.scroll-container {
+    max-height: 400px; /* Altura máxima do container */
+    overflow-y: auto; /* Adiciona scroll vertical */
     border: 1px solid #ccc; /* Para visualizar o container */
-}
-
-.item {
-    display: inline-block; /* Para que os itens fiquem na mesma linha */
-    width: 200px; /* Largura dos itens */
-    margin: 10px;
+    padding: 10px;
 }
