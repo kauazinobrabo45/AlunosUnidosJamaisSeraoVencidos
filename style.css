@@ -44,5 +44,5 @@ background-image: url(https://img.freepik.com/vetores-gratis/design-plano-de-fun
     overflow-y: auto; /* Adiciona scroll vertical */
     border: 1px solid #ffffff; /* Para visualizar o container */
     padding: 10px;.
-    background-color: rbg(0, 0, 0);
+    background-color: #000;
 }
