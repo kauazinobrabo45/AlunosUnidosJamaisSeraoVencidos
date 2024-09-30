@@ -39,7 +39,14 @@ background-image: url(https://img.freepik.com/vetores-gratis/design-plano-de-fun
     background-repeat: no-repeat;
 }
 
-.card {
-    box-shadow: 0 4px 15px rgba(241, 7, 7, 0.952);
-    border-radius: 10px;
+.horizontal-scroll {
+    overflow-x: auto; /* Adiciona scroll horizontal */
+    white-space: nowrap; /* Impede quebra de linha */
+    border: 1px solid #ccc; /* Para visualizar o container */
+}
+
+.item {
+    display: inline-block; /* Para que os itens fiquem na mesma linha */
+    width: 200px; /* Largura dos itens */
+    margin: 10px;
 }
