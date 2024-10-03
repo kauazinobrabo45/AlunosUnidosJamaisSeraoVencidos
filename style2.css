@@ -11,13 +11,13 @@
 
 .conteudo-principal {
     display: flex;
-    flex-direction: center;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     max-width: 1200px;
-    width: 100%;
+    width: 170%;
     margin: 0 auto;
-    font-size: 200px;
+    font-size: 40px;
   }
   
 
